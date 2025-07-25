@@ -1,0 +1,234 @@
+{
+  "site_title": "Ancient Order of Absurdity",
+  "meta_description": "A community-driven meme token on SUI. Life is absurd. Money is absurd. Digital memes even more so.",
+  
+  "hero_section": {
+    "main_title": "Ancient Order of Absurdity",
+    "subtitle": "A community-driven meme token on SUI",
+    "tagline": "Life is absurd. Money is absurd. Digital memes even more so."
+  },
+  
+  "mission_statement": {
+    "title": "The Mission (If You Can Call It That)",
+    "content": "We are the Ancient Order of Absurdity. We exist because everything else is ridiculous, so why not lean into it?\n\nWe started as a meme. A joke about jokes. A token that tokenizes the tokenization of nothing in particular. But here's the thing about absurdity—it has a way of becoming accidentally profound.\n\nOur first job: to be the friend to all fair memes on SUI and beyond. To accelerate the weird, the wonderful, and the utterly pointless. Our second job: to empower the artists, the weirdos, the filmmakers—the ones with no voice—to say and do great, absurd things. We make no promises. It would be absurd to.\n\nFor now, just enjoy the ride. It's all ridiculous anyway."
+  },
+  
+  "links_section": {
+    "title": "Join the Absurdity",
+    "links": [
+      {
+        "name": "Twitter/X",
+        "url": "https://x.com/ancientorderO",
+        "description": "Where we post nonsense daily"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/ancientabsurdity",
+        "description": "The town square of chaos"
+      },
+      {
+        "name": "SUI Rewards Me",
+        "url": "https://app.suirewards.me/",
+        "description": "Where the magic happens"
+      }
+    ],
+    "meme_tools_title": "Meme Creation Arsenal",
+    "meme_tools": [
+      {
+        "name": "Canva",
+        "url": "https://canva.com",
+        "description": "For the artistically inclined"
+      },
+      {
+        "name": "Imgflip",
+        "url": "https://imgflip.com/memegenerator",
+        "description": "Classic meme generator"
+      },
+      {
+        "name": "Kapwing",
+        "url": "https://kapwing.com",
+        "description": "Video memes and more"
+      }
+    ]
+  },
+  
+  "tokenomics_section": {
+    "title": "The Economics of Absurdity",
+    "intro": "Here's how the madness works. Every transaction feeds the machine of beautiful chaos:",
+    "breakdown": [
+      {
+        "percentage": "2.00%",
+        "name": "LP Builder Fee",
+        "description": "Goes straight back into the liquidity pool. More liquidity means smoother trades, fewer price swings, and a healthier ecosystem. It's like feeding the beast that keeps us all fed."
+      },
+      {
+        "percentage": "0.50%",
+        "name": "Buyback and Burn",
+        "description": "Tokens are bought back and permanently destroyed. Scarcity through fire. It's poetic, really—destroying value to create value."
+      },
+      {
+        "percentage": "0.75%",
+        "name": "Creator Royalty",
+        "description": "Funds the ongoing madness. Development, marketing, and eventually—if the treasury gets fat enough—grants for community members with genuinely absurd ideas."
+      },
+      {
+        "percentage": "3.00%",
+        "name": "Rewards Fee",
+        "description": "The big one. Distributed directly to holders in SUI. No staking, no claiming, no nonsense. Hold the token, participate in the community, create memes, and watch the rewards flow. The more you contribute, the more you benefit."
+      }
+    ],
+    "conclusion": "This isn't just tokenomics—it's a self-sustaining ecosystem of absurdity. The more you participate, the more you benefit. It aligns everyone—the creators, the holders, the meme-makers—toward the same goal: making the Order thrive."
+  },
+  
+  "roadmap_section": {
+    "title": "The Un-Roadmap",
+    "subtitle": "Or: How to Plan for the Unplannable",
+    "intro": "Traditional roadmaps are for traditional projects. We are not traditional. Here's what might happen, probably will happen, or could happen if the stars align and someone remembers to do it:",
+    "phases": [
+      {
+        "title": "Phase 1: The Launch",
+        "description": "Deploy on SUI via SRM's Lotus Launch. Build the initial community. No influencers, no paid pumps—just pure, organic chaos. If you're here, you're early. Congratulations on your questionable life choices."
+      },
+      {
+        "title": "Phase 2: The Gathering",
+        "description": "Community growth through memes, madness, and mutual appreciation of the absurd. Monthly meme contests with extra rewards. Encourage members to host Twitter Spaces. Register on various platforms because apparently that's what you do."
+      },
+      {
+        "title": "Phase 3: The Evolution",
+        "description": "If the community wants it, we evolve. Polls for bigger initiatives. Grants for filmmakers, musicians, artists—the voices that usually get drowned out. But only if the treasury is fat and the community demands it. No promises."
+      },
+      {
+        "title": "Phase ∞: The Unknown",
+        "description": "We adapt. We grow. We change with the seasons and the memes. Members will come and go, but the culture of absurdity endures. This is a meme project—don't expect extra utility unless the community creates it."
+      }
+    ],
+    "conclusion": "Remember: this is community-driven. We provide the framework; you provide the chaos. The tokenomics make it sustainable, but you make it meaningful."
+  },
+  
+  "characters_section": {
+    "title": "The Order's Roster",
+    "subtitle": "Meet the Members (Click to Reveal Their Secrets)",
+    "characters": [
+      {
+        "id": "character-01",
+        "name": "The Joker of WAGMI",
+        "description": "Green-skinned chaos incarnate in a purple suit that costs more than your portfolio. Those yellow eyes have seen the punchline to existence itself, and it's hilarious. Wears formal attire to informal occasions and informal attitudes to formal occasions. The Order's official dealer of cosmic jokes and existential pranks."
+      },
+      {
+        "id": "character-02",
+        "name": "The Hooded Sage",
+        "description": "A wise amphibian who discovered that wearing a hoodie with an octopus logo makes you 47% more mysterious. Those purple eye-masks aren't for show—they're prescription. Speaks fluent meme and broken English. Currently pursuing a PhD in Advanced Pepe Studies from the University of Feels Good Man."
+      },
+      {
+        "id": "character-03",
+        "name": "The SUI Evangelist",
+        "description": "A tusked prophet of the blockchain who carries the sacred SUI banner wherever they waddle. Those magnificent tusks aren't just for show—they're for opening stubborn smart contracts. Wears an orange shirt with octopus tentacles because fashion is subjective and tentacles are eternal. Preaches the gospel of decentralization to anyone within blubber distance."
+      },
+      {
+        "id": "character-04",
+        "name": "The Tentacled Optimist",
+        "description": "Eight arms, infinite possibilities, zero understanding of personal space. Those massive eyes have seen things that would make lesser beings question reality, but they just smile wider. Wears a hoodie with their own species on it because self-promotion is the highest form of flattery. Gives the best hugs in the Order, whether you want them or not."
+      },
+      {
+        "id": "character-05",
+        "name": "The Cosmic Accountant",
+        "description": "Balances the books of reality and finds them severely lacking. Wears a tie to interdimensional meetings and brings spreadsheets to spiritual awakenings. Their calculator runs on pure existential dread and compound interest. Currently auditing the universe for tax purposes."
+      },
+      {
+        "id": "character-06",
+        "name": "The Philosopher",
+        "description": "Ponders the meaning of meaning. Has concluded that meaning is meaningless, which is meaningful."
+      },
+      {
+        "id": "character-07",
+        "name": "The Jester",
+        "description": "Makes jokes about jokes. Their humor is so meta it's achieved sentience and started making jokes about them."
+      },
+      {
+        "id": "character-08",
+        "name": "The Observer",
+        "description": "Watches everything, says nothing. Knows all the secrets but finds them too absurd to share."
+      },
+      {
+        "id": "character-09",
+        "name": "The Catalyst",
+        "description": "Makes things happen by accident. Their mere presence causes chaos, which they find mildly amusing."
+      },
+      {
+        "id": "character-10",
+        "name": "The Minimalist",
+        "description": "Believes less is more, which is why they're here. This sentence contains too many words for their liking."
+      },
+      {
+        "id": "character-11",
+        "name": "The Maximalist",
+        "description": "Believes more is more, and then some. Their bio would be longer but we ran out of space and patience."
+      },
+      {
+        "id": "character-12",
+        "name": "The Paradox",
+        "description": "Exists and doesn't exist. Is and isn't. Makes perfect sense in a way that makes no sense."
+      },
+      {
+        "id": "character-13",
+        "name": "The Wanderer",
+        "description": "Goes nowhere in particular and arrives exactly where they need to be. Geography is just a state of mind."
+      },
+      {
+        "id": "character-14",
+        "name": "The Sage",
+        "description": "Knows everything and nothing. Speaks in riddles that solve themselves. Probably made this whole thing up."
+      }
+    ]
+  },
+  
+  "meme_showcase": {
+    "title": "Meme of the Month",
+    "subtitle": "Community Excellence in Absurdity",
+    "placeholder_text": "Coming Soon: The first monthly meme contest winner will be showcased here. Create something beautifully absurd and it could be yours.",
+    "current_image": "placeholder-meme.jpg"
+  },
+  
+  "how_to_buy": {
+    "title": "How to Join the Order",
+    "subtitle": "A Simple Guide to Acquiring Absurdity",
+    "launch_status": "pre-launch",
+    "pre_launch_message": "We're launching in August 2024 via SRM's Lotus Launch. Stay tuned for the exact date.",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Get a SUI Wallet",
+        "description": "Download Sui Wallet or another SUI-compatible wallet. Fund it with SUI tokens."
+      },
+      {
+        "step": 2,
+        "title": "Visit SUI Rewards Me",
+        "description": "Head to app.suirewards.me when we launch. This is where the fair launch happens."
+      },
+      {
+        "step": 3,
+        "title": "Connect & Swap",
+        "description": "Connect your wallet and swap SUI for aOOa tokens. Welcome to the Order."
+      }
+    ],
+    "warning": "Beware of scams. We will only launch through SRM's Lotus Launch. Any other 'aOOa' tokens are imposters.",
+    "srm_link": "https://app.suirewards.me/"
+  },
+  
+  "ticker_phrases": [
+    "Life is absurd • Money is absurd • Digital memes even more so",
+    "The memes must flow • The absurd will be rewarded",
+    "No promises • No roadmaps • No sense • Perfect",
+    "Community-driven chaos • Powered by SUI • Fueled by nonsense",
+    "Fair launch • Fair memes • Unfair advantage to logic",
+    "Tokenizing the tokenization of nothing in particular",
+    "Where meaning goes to die and somehow comes back stronger",
+    "The Order grows • The absurdity spreads • The void approves"
+  ],
+  
+  "footer": {
+    "copyright": "© 2024 Ancient Order of Absurdity. All rights reserved. Some wrongs reserved too.",
+    "disclaimer": "This is a meme token. Invest responsibly, which is to say, don't invest what you can't afford to lose in something this ridiculous."
+  }
+}
+
